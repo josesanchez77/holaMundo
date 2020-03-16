@@ -2,8 +2,7 @@
 public class HolaMundo {
 
 	public static void main(String[] args) {
-		System.out.print("Hola");
-		System.out.print(" mundo");
+		System.out.print("Hola mundo");
 	}
 
 }
